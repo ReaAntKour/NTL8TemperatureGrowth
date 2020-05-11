@@ -17,4 +17,4 @@ test data (Imaging by Yusheng Zhao): g8w-s4-4w.czi, g8w-s4-4w+ga.czi
 
 output files from test data: g8w-s4-4w.png, g8w-s4-4w+ga.png
 
-Full dataset of input files can be found on figshare (doi: 10.6084/m9.figshare.12281021)
+Full dataset of input files can be found on figshare (doi: 10.6084/m9.figshare.12283970)
