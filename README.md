@@ -1,5 +1,5 @@
 # NTL8TemperatureGrowth
-Code files for "Temperature-dependent growth contributes to long-term cold sensing", Zhao et al 2020, Nature
+Code files for "Temperature-dependent growth contributes to long-term cold sensing", Zhao et al 2020, Nature. https://www.nature.com/articles/s41586-020-2485-4
 
 ## Files for computational model
 
